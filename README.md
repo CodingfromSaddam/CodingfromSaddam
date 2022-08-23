@@ -5,9 +5,6 @@
 
 <h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
 
-I'm a self-taught front-end web developer who is passionate about writing code, solving problems, building react App.
-
-<h3>  💻 &nbsp; More About Me </h3>
 -  💻 &nbsp; Software Engineer
 - 🤔 &nbsp; I’m interested in keeping up-to-date with latest technological developments.
 - 🏻 &nbsp; Decent competitive programming, DSA, Algo skills.
